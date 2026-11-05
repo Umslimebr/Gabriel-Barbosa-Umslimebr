@@ -1,5 +1,4 @@
 # Gabriel-Barbosa-Umslimebr
-# 👩🏻‍💻 Larissa Kich
 
 **`Desenvolvedora FullStack`**
 
