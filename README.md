@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Gabriel Barbosa, tenho 23 anos e sou natural do Cera. Concluí o ensino médio no EEMTI Doutor Andrade Furtado II, Atualmente sou formado em Desenvolvimento de Sistemas na Anhanguera Pitagoras. Sou apaixonada por tecnologia e em aprender coisas novas(https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Gabriel Barbosa, tenho 23 anos e sou natural do Cera. Concluí o ensino médio no EEMTI Doutor Andrade Furtado II, Atualmente sou formado em Desenvolvimento de Sistemas na Anhanguera Pitagoras. Sou apaixonada por tecnologia e em aprender coisas novas.
 
 
 
